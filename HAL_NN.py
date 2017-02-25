@@ -8,8 +8,8 @@ from reversi.ReversiAlgorithm import ReversiAlgorithm
 from random import random
 from math import exp
 import pickle
-
 import Matrix
+
 neurons = 30
 numInputs = 65
 iterrations = 50000
